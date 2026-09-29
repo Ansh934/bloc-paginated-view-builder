@@ -1,0 +1,21 @@
+name: bloc_paginated_view_builder_example
+description: A runnable example of bloc_paginated_view_builder.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+  flutter: '>=3.32.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  bloc_paginated_view_builder:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

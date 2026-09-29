@@ -1,0 +1,6 @@
+backup/
+build/
+coverage/
+.dart_tool/
+.DS_Store
+.vscode/
